@@ -1,0 +1,21 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "a dataset of the planet's most interesting places",
+  "homepage": "https://github.com/SanJammin/WildHorizons#readme",
+  "bugs": {
+    "url": "https://github.com/SanJammin/WildHorizons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanJammin/WildHorizons.git"
+  },
+  "license": "ISC",
+  "author": "sanjammin",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
